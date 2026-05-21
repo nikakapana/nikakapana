@@ -92,6 +92,7 @@ I build modern, responsive, and user-friendly web applications with a focus on c
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikakapana/)
+[![Email](https://img.shields.io/badge/Email-Nikakapana1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nikakapana1@gmail.com)
 
 </div>
 
