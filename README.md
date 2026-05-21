@@ -58,9 +58,6 @@ I build modern, responsive, and user-friendly web applications with a focus on c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikakapana&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikakapana&theme=dracula&hide_border=true&layout=compact" />
-
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikakapana&theme=dracula&hide_border=true" />
